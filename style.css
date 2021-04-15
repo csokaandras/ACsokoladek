@@ -1,3 +1,26 @@
 body{
-    
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+}
+
+ul{
+    list-style: none;
+    border-bottom: 4px black;
+}
+
+#tartalom{
+    float: right;
+    background-color: green;
+}
+
+#menü{
+    float: left;
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+
+#lotto{
+    background-color: blue;
+    text-align: center;
 }
