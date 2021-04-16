@@ -24,6 +24,7 @@ ul{
 
 #lotto{
     background-image: url(hm1/hatter.jpg);
+    background-size: 200%;
     text-align: center;
     height: 400px;
 }
@@ -48,6 +49,6 @@ img{
     margin-left: -28%;
 }
 
-tr{
-    border: 50px black;
+td{
+    border: 50px red;
 }
