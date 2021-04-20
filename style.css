@@ -10,9 +10,8 @@ ul{
 }
 
 .tartalom{
-    float: right;
-    width: 975px;
-    
+    float: left;
+    width: 700px;
 }
 
 #menü{
@@ -62,7 +61,7 @@ table{
 }
 
 #főcím, h2{
-    padding-left: 200px;
+    padding-left: 100px;
 }
 
 #első{
