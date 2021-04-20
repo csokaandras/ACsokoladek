@@ -1,48 +1,46 @@
 body{
+    margin: auto;
     font-family: Arial, Helvetica, sans-serif;
     width: 70%;
-    margin: auto;
 }
+
 ul{
     list-style: none;
     border-bottom: 4px black;
-}    
-#tartalom{
-    float: right;
 }
-#menü{ 
+
+.tartalom{
+    float: right;
+    width: 975px;
+    
+}
+
+#menü{
     float: left;
     background-color: rgb(66, 66, 66);
     color: white;
-    width: 30%;
-}
-#lotto{
-    background-image: url(hm1/hatter.jpg);
-    background-size: 200%;
-    text-align: center;
-    height: 400px;
 }
 
+#lotto{
+    background-image: url(hm1/hatter.jpg);
+    text-align: center;
+    height: 500px;
+    width: 350px;
+    
+}
 img{
     width: 500px;
 }
-
 .column {
     float: left;
     width: 12%;
-    padding: 10px;
+    padding: 5px;
 }
-
 .lottószöveg{
     margin-top: -150px;
     
 }
-
 .lottókép{
-    margin-top: 50px;
-    margin-left: -28%;
-}
-
-td{
-    border: 50px red;
+    margin-top: 150px;
+    margin-left: -78px;
 }
