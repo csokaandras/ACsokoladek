@@ -24,8 +24,9 @@ ul{
 #lotto{
     background-image: url(hm1/hatter.jpg);
     text-align: center;
-    height: 500px;
+    height: 300px;
     width: 350px;
+    background-size: 450px;
     
 }
 img{
@@ -41,7 +42,7 @@ img{
     
 }
 .lottókép{
-    margin-top: 150px;
+    margin-top: 40px;
     margin-left: -78px;
 }
 
@@ -49,4 +50,7 @@ td{
     border-bottom: 2px rgb(102, 102, 102) solid;
     height: 40px;
     color: rgb(204, 204, 204);
+}
+#főcím, h2{
+    padding-left: 200px;
 }
