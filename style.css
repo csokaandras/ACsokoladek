@@ -61,10 +61,6 @@ table{
     margin-left: 30px;
 }
 
-#főcím, h2{
-
-}
-
 #első{
     position: relative;
     top: 82px;
@@ -88,5 +84,30 @@ table{
 #ötödik{
     position: relative;
     top: -52px;
-    right: 65px;
+    right: 66px;
+}
+#hatodik{
+    position: relative;
+    top: 50px;
+    right: 505px;
+}
+#hetedik{
+    position: relative;
+    top: 15px;
+    right: 395px;
+}
+#nyolcadik{
+    position: relative;
+    top: -17px;
+    right: 285px;
+}
+#kilencedik{
+    position: relative;
+    top: -52px;
+    right: 174px;
+}
+#tizedik{
+    position: relative;
+    right: -485px;
+    top: -85px;
 }
