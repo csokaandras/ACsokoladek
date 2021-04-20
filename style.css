@@ -12,6 +12,7 @@ ul{
 .tartalom{
     float: left;
     width: 700px;
+    padding-left: 100px;
 }
 
 #menü{
