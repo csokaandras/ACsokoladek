@@ -19,7 +19,7 @@ ul{
     float: left;
     background-color: rgb(66, 66, 66);
     color: white;
-    margin-top: 100px;
+
 }
 
 #lotto{
@@ -27,7 +27,8 @@ ul{
     text-align: center;
     height: 500px;
     width: 350px;
-    
+    background-repeat: no-repeat;
+    background-size: 400px;
 }
 img{
     width: 500px;
@@ -38,7 +39,7 @@ img{
     padding: 5px;
 }
 .lottószöveg{
-    margin-top: -150px;
+    margin-top: -300px;
     
 }
 .lottókép{
@@ -50,4 +51,8 @@ td{
     border-bottom: 2px rgb(102, 102, 102) solid;
     height: 40px;
     color: rgb(204, 204, 204);
+}
+
+table{
+    margin-left: 30px;
 }
