@@ -46,5 +46,7 @@ img{
 }
 
 td{
-    border-bottom: 2px gray solid;
+    border-bottom: 2px rgb(102, 102, 102) solid;
+    height: 40px;
+    color: rgb(204, 204, 204);
 }
