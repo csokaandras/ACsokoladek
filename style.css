@@ -1,7 +1,7 @@
 body{
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-    width: 70%;
+    width: 70% 500px;
 }
 
 ul{
@@ -11,7 +11,7 @@ ul{
 
 .tartalom{
     float: left;
-    width: 700px;
+    width: 60%;
     padding-left: 100px;
 }
 
