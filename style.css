@@ -45,3 +45,7 @@ img{
     margin-top: 150px;
     margin-left: -78px;
 }
+
+td{
+    border-bottom: 2px gray solid;
+}
