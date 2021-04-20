@@ -34,9 +34,14 @@ img{
 }
 .column {
     float: left;
-    width: 12%;
     padding: 5px;
+    height: 20%;
 }
+
+.column img{
+    width: 100px;
+}
+
 .lottószöveg{
     margin-top: -150px;
     
@@ -58,4 +63,10 @@ table{
 
 #főcím, h2{
     padding-left: 200px;
+}
+
+#első{
+    position: relative;
+    top: 148px;
+    right: -232px;
 }
