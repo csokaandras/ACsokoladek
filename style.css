@@ -62,11 +62,31 @@ table{
 }
 
 #főcím, h2{
-    padding-left: 200px;
+
 }
 
 #első{
     position: relative;
-    top: 148px;
-    right: -232px;
+    top: 82px;
+    right: -47px;
+}
+#második{
+    position: relative;
+    top: 50px;
+    right: 393px;
+}
+#harmadik{
+    position: relative;
+    top: 15px;
+    right: 283px;
+}
+#negyedik{
+    position: relative;
+    top: -18px;
+    right: 173px;
+}
+#ötödik{
+    position: relative;
+    top: -52px;
+    right: 65px;
 }
