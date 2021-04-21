@@ -1,4 +1,2 @@
 # ACsokoladek
-Helo
-nánánánánánánánná
-nánánánánánánánnánánná
+https://csokaandras.github.io/ACsokoladek/
