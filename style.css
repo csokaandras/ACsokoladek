@@ -8,7 +8,7 @@ body{
     float: left;
     width: 40%;
     margin-left: 100px;
-    background-color: blueviolet;
+    
 }
 
 #menü{
@@ -119,11 +119,14 @@ table{
     padding: 5px;
     height: 20%;
     position: relative;
-    right: -35px;
+    right: 95px;
+    top: -320px;
+    
     
 }
 .sárgak img{
-    width: 100px;
+    width: 500px;
+    
     
 }
 
@@ -132,12 +135,13 @@ table{
     padding: 5px;
     height: 20%;
     position: relative;
-    right: -35px;
+    right: 95px;
+    top: -570px;
     
     
 }
 .sárgal img{
-    width: 100px;
+    width: 500px;
     
 }
 
@@ -146,24 +150,53 @@ table{
     padding: 5px;
     height: 20%;
     position: relative;
-    right: -35px;
+    right: 95px;
+    top: -830px;
    
 }
 .sárgaé img{
-    width: 100px;
+    width: 500px;
     
 }
-#elsőke{
+.elsőke{
     position: relative;
-    top: 80px;
+    top: 50px;
+    font-size: 70px;
+    font-weight: 50;
+    right: -90;
 }
-#másodikka{
+.másodikka{
     position: relative;
-    top: 80px;
-    right: 107px;
+    top: 60px;
+    right: 510px;
+    font-size: 70px;
+    font-weight: 50;
 }
-#harmadikka{
+.harmadikka{
     position: relative;
-    top: 80px;
-    right: 107px;
+    top: 60px;
+    right: 510px;
+    font-size: 70px;
+    font-weight: 50;
+}
+.kettőkilenc{
+    position: relative;
+    right: -325px;
+    top: 190px;
+    font-size: 50px;
+}
+.kettőtizennyolc{
+    position: relative;
+    right: -325px;
+    top: 190px;
+    font-size: 50px;
+}
+.kettőnyolc{
+    position: relative;
+    right: -325px;
+    top: 190px;
+    font-size: 50px;
+}
+#leggyakoribb{
+    font-size: 50   px;
 }
