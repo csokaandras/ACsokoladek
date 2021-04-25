@@ -28,6 +28,8 @@ body{
 img{
     width: 500px;
 }
+
+
 .column {
     float: left;
     padding: 5px;
@@ -111,4 +113,57 @@ table{
     position: relative;
     right: -486px;
     top: -88px;
+}
+.sárgak {
+    float: left;
+    padding: 5px;
+    height: 20%;
+    position: relative;
+    right: -35px;
+    
+}
+.sárgak img{
+    width: 100px;
+    
+}
+
+.sárgal {
+    float: left;
+    padding: 5px;
+    height: 20%;
+    position: relative;
+    right: -35px;
+    
+    
+}
+.sárgal img{
+    width: 100px;
+    
+}
+
+.sárgaé {
+    float: left;
+    padding: 5px;
+    height: 20%;
+    position: relative;
+    right: -35px;
+   
+}
+.sárgaé img{
+    width: 100px;
+    
+}
+#elsőke{
+    position: relative;
+    top: 80px;
+}
+#másodikka{
+    position: relative;
+    top: 80px;
+    right: 107px;
+}
+#harmadikka{
+    position: relative;
+    top: 80px;
+    right: 107px;
 }
