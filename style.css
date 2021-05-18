@@ -58,6 +58,7 @@ td{
 a{
     color: rgb(204, 204, 204);
     text-decoration: none;
+    height: max-content;
 }
 
 table{
