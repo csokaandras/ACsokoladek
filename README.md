@@ -1,2 +1,2 @@
 # ACsokoladek
-https://csokaandras.github.io/ACsokoladek/
+https://csokaandras.github.io/ACsokoladek/korabbi.html
