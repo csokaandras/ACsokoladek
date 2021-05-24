@@ -32,8 +32,7 @@ img{
 
 .column {
     float: left;
-    padding: 0.5%;
-    height: 20%;
+    text-align: center;
 }
 
 .column img{
@@ -59,62 +58,22 @@ a{
     color: rgb(204, 204, 204);
     text-decoration: none;
     height: max-content;
+    
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(204, 204, 204);
 }
 
 table{
     margin-left: 30px;
 }
 
-#első{
-    position: relative;
-    top: 82px;
-    right: -47px;
+ul{
+    list-style-type: none;
 }
-#második{
-    position: relative;
-    top: 48px;
-    right: 393px;
-}
-#harmadik{
-    position: relative;
-    top: 14px;
-    right: 283px;
-}
-#negyedik{
-    position: relative;
-    top: -20px;
-    right: 173px;
-}
-#ötödik{
-    position: relative;
-    top: -54px;
-    right: 64px;
-}
-#hatodik{
-    position: relative;
-    top: 48px;
-    right: 504px;
-}
-#hetedik{
-    position: relative;
-    top: 14px;
-    right: 393px;
-}
-#nyolcadik{
-    position: relative;
-    top: -20px;
-    right: 283px;
-}
-#kilencedik{
-    position: relative;
-    top: -54px;
-    right: 173px;
-}
-#tizedik{
-    position: relative;
-    right: -486px;
-    top: -88px;
-}
+
 .sárgak {
     float: left;
     padding: 5px;
