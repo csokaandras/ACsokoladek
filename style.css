@@ -142,22 +142,49 @@ ul{
 .kettőkilenc{
     position: relative;
     right: -325px;
-    top: 190px;
+    top: 300px;
     font-size: 50px;
 }
 .kettőtizennyolc{
     position: relative;
     right: -325px;
-    top: 190px;
+    top: 275px;
     font-size: 50px;
 }
 .kettőnyolc{
     position: relative;
     right: -325px;
-    top: 190px;
+    top: 325px;
     font-size: 50px;
 }
 #leggyakoribb{
     font-size: 50px;
+}
+
+#első{
+    position: relative;
+    top: -250%;
+    left: 0%;
+    
+}
+#második{
+    position: relative;
+    top: -250%;
+    left: 0.5%;
+}
+#harmadik{
+    position: relative;
+    top: -250%;
+    left: 1%;
+}
+#negyedik{
+    position: relative;
+    top: -250%;
+    left: 2%;
+}
+#ötödik{
+    position: relative;
+    top: -250%;
+    left: 2.5%;
 }
 
