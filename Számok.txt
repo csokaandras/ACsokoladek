@@ -25,3 +25,6 @@ Leghosszabb sorozatok számsorokban
 
 
 Legkissebb összegű számsorok
+2    6    9    23    26    összeg:66
+2    3    6    8    30    összeg:49
+1    12    13    15    26    összeg:67
