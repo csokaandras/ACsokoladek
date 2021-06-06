@@ -163,31 +163,30 @@ ul{
 
 #első{
     position: relative;
-    top: -250%;
-    left: -1%;
-    
+    top: -210%;
 }
 #második{
     position: relative;
-    top: -250%;
-    left: -0.5%;
+    top: -210%;
 }
 #harmadik{
     position: relative;
-    top: -250%;
-    left: 0.1%;
+    top: -210%;
 }
 #negyedik{
     position: relative;
-    top: -250%;
-    left: 0.5%;
+    top: -210%;
 }
 #ötödik{
     position: relative;
-    top: -250%;
-    left: 1%;
+    top: -210%;
 }
 .grafikon img{
     width: 400px;
 }
-
+.contaner-fluid{
+    position: absolute;
+}
+.proba img{
+    width: 100%;
+}
